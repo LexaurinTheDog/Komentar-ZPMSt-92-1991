@@ -640,6 +640,11 @@ Ocenění v realizovaném privatizačním projektu nahrazuje odborný odhad nepe
 
 **Systematická poznámka.** Ustanovení o přechodu vlastnického práva v kapitole 1 (§ 19 odst. 4) odkazuje na „§ 45 odst. 7“, který v konsolidovaném znění neexistuje; jde o neaktualizovaný odkaz.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 390/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3022E17DC0D44E3DC1257A4E006A91AB?openDocument) — 31. 8. 2005, kat. A
+  > „Nešlo-li o majetek, na který byl předložen privatizační projekt, nebo o majetek vymezený v zakládací listině státního podniku, mohl státní podnik před 1. 1. 2001 platně uzavřít smlouvu o zřízení zástavního práva k majetku státu, k němuž měl právo hospodaření, a to i bez souhlasu zakladatele. Konkursní věřitel, jehož právo na oddělené uspokojení bylo popřeno, musí v žalobním petitu, jímž se domáhá určení tohoto práva, uvést jednak řádnou identifikaci věřitelovy zajištěné pohledávky (včetně označení dlužníka - úpadce), jednak identifikaci majetku sepsaného v konkursní podstatě úpadce, z jehož zpeněžení má být zajištěná pohledávka tohoto věřitele uspokojena. Těmto požadavkům vyhovuje v případech, kdy jde o pohledávku ze smlouvy, žalobní petit v tomto znění: "Určuje se, že u pohledávky za úpadcem X (nezaměnitelné označení úpadce) ze smlouvy (označení smlouvy) ze dne ..., ve výši ... Kč,…"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Státní podnik pronajal v roce 1993 halu soukromé společnosti N na 15 let. Následně byl podnik na základě rozhodnutí o privatizaci zrušen bez likvidace a hala byla prodána nabyvateli P. N odmítá halu vyklidit a odkazuje na sjednanou dobu nájmu.
@@ -698,6 +703,11 @@ Ocenění v realizovaném privatizačním projektu nahrazuje odborný odhad nepe
 **Odst. 5 — privatizační projekty účastí.** Obdobně se vypořádají restituční nároky v privatizačních projektech účasti za použití § 10a odst. 6.
 
 **Dnešní dosah.** Všechny lhůty k uplatnění uplynuly. Ustanovení má význam pro dosud neskončená řízení a pro posouzení, zda nárok zanikl, byl vypořádán, nebo byl včas uplatněn u soudu. Odkazy na zákon č. 87/1991 Sb. je třeba vykládat podle jeho znění účinného v době uplatnění nároku; § 33 tohoto zákona byl zrušen občanským zákoníkem č. 89/2012 Sb. (§ 3080 bod 5), což se však týká jiného ustanovení než § 2 odst. 3.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3119/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC08AF23A73A21E4C1257A4E0065C97B?openDocument) — 19. 2. 2009, kat. A
+  > „K návrhu na přistoupení dalšího žalovaného do řízení vázanému na podmínku (že žaloba bude vůči původnímu žalovanému zamítnuta) soud nepřihlíží (§ 41a odst. 2 o. s. ř.)"
 
 #### F. Kazuistika
 

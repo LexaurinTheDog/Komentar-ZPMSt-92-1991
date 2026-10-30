@@ -106,6 +106,11 @@ Zmínka o věcech „v jeho vlastnictví“ zohledňuje, že podnik mohl vedle m
 
 Ustanovení je formulováno jako **omezení dispozice** („může být použito … pouze v případě“). Navazuje na ně § 6 odst. 1 písm. b) a e) (údaje o nabytí majetku státem a vypořádání nároků oprávněných osob), § 10a odst. 6, § 12 odst. 3 a zvláštní úprava v § 47 pro nároky podle zákona č. 87/1991 Sb., o mimosoudních rehabilitacích. Slovo „např.“ v poznámce č. 2 ukazuje, že výčet restitučních předpisů je otevřený.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 1246/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7AE6D7BF8EC24CA7C125801B002509F9?openDocument) — 21. 6. 2016, kat. A
+  > „Převodu historického majetku církví v dražbě prováděné na základě zákona č. 427/1990 Sb. nebránil § 3 odst. 1 zákona č. 92/1991 Sb. ve znění účinném do 31. 12. 2012 pakliže by předmětem dražby odehrávající se po dni účinnosti zákona č. 229/1991 Sb. byl zemědělský majetek, mohlo jeho převod znemožnit ustanovení § 29 zákona č. 229/1991 Sb. ve znění účinném do 31. 12. 2012"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Do privatizačního projektu je zařazena budova, kterou stát nabyl znárodněním; původní vlastník podal výzvu k vydání podle restitučního předpisu a řízení nebylo ukončeno.
@@ -671,6 +676,11 @@ Smyslem je zabránit tomu, aby zakladatel (zpravidla resortní ministerstvo) vy�
 
 **Odst. 5.** U majetkových účastí převedou orgány státní správy ke dni určenému v rozhodnutí tyto účasti na ministerstvo.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 20/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE6BFDC6E8536047C1257A4E00658025?openDocument) — 16. 11. 2006, kat. A
+  > „Odstoupení od smlouvy o prodeji (části) podniku má za následek zrušení smlouvy od okamžiku doručení tohoto projevu vůle druhé straně (ex nunc) a obnovení původního stavu ohledně převáděného podniku (jeho části), včetně práv a povinností z pracovněprávních vztahů k zaměstnancům pracujícím v podniku nebo v jeho organizační složce, jakož i práv a povinností k těm zaměstnancům, jejichž pracovněprávní vztah v mezidobí od uzavření smlouvy o prodeji podniku (jeho části) do okamžiku odstoupení od smlouvy případně skončil"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Rozhodnutí o privatizaci určilo prodej celého podniku; zakladatel podnik zrušil bez likvidace, ochranná známka podniku však zůstala nepřevedena.
@@ -815,6 +825,21 @@ Sledovaný účel: výnosy privatizace slouží k vypořádání nároků a záv
 
 **Odst. 4 — oznámení věřitelům.** Nabyvatel je povinen **bez zbytečného odkladu** oznámit věřitelům převzetí závazku. Odstavec 3 byl zrušen (číslování nebylo změněno). Zákon souhlas věřitele s přechodem závazku nevyžaduje; oznámení má informační funkci. Vztah k obecné úpravě převzetí dluhu (nyní § 1888 občanského zákoníku, který souhlas věřitele vyžaduje) je třeba posuzovat jako vztah zvláštní a obecné úpravy.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 2459/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5126B5E07DB7FE3AC1257F0800415C2E?openDocument) — 9. 9. 2015, kat. A
+  > „Novela zákona č. 92/1991 Sb. provedená zákonem č. 224/1994 Sb. nezaložila znovu ručení Fondu národního majetku České republiky za závazky, které na nabyvatele přešly v rámci privatizace, nýbrž vázala na další podmínky splatnost těch pohledávek věřitelů vůči tomuto fondu z titulu ručení, které vznikly před 13. 8. 1993, avšak nestaly se splatnými před 6. 12. 1994"
+- *NS* [23 Cdo 2410/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A17310AD06020526C1257B42003CD369?openDocument) — 27. 2. 2013, kat. A
+  > „Není-li dohodnuto jinak, v rozsahu, ve kterém ručitel ručí za zaplacení jistiny pohledávky, ručí i za její příslušenství tvořené zákonnými úroky z prodlení"
+- *NS* [31 Cdo 1058/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46EAB7172A084799C1257A780055838B?openDocument) — 12. 9. 2012, kat. A
+  > „S právy a závazky souvisejícími s privatizovaným majetkem přecházejí na jeho nabyvatele s vlastnickým právem k privatizovanému majetku také práva z licenční smlouvy (licenčních smluv)"
+- *NS* [29 Cdo 601/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2BCEF9C4BBE5BFFFC1257A4E006AAF44?openDocument) — 8. 6. 2011, kat. A
+  > „Z toho, že věřitel nabyvatele privatizovaného majetku (dlužníka) nepodal návrh na prohlášení konkursu na majetek dlužníka a že dlužníkův úpadek byl řešen vyrovnáním ve smyslu § 46 a násl. zákona č. 328/1991 Sb. (ve znění účinném do 31. 12. 2007), které bylo soudem dlužníku povoleno, potvrzeno a následně jím i splněno, nelze dovozovat, že věřitel nevyužil všech právních prostředků vůči nabyvateli privatizovaného majetku (dlužníku) ve smyslu § 15 odst. 3 zákona č. 92/1991 Sb. ve znění účinném od 6. 12. 1994 do 30. 4. 2005. Posledním právním prostředkem, jehož „nevyužití“ lze za takové situace při úvaze o splnění podmínek, za kterých za splnění závazků vzniklých před 13. 8. 1993, které na nabyvatele přešly v rámci privatizace, ručí stát (dříve Fond národního majetku České republiky) přičítat k tíži věřitele, je přihláška pohledávky do vyrovnání. Pro určení výše pohledávky (včetně jejího…"
+- *NS* [21 Cdo 20/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE6BFDC6E8536047C1257A4E00658025?openDocument) — 16. 11. 2006, kat. A
+  > „Odstoupení od smlouvy o prodeji (části) podniku má za následek zrušení smlouvy od okamžiku doručení tohoto projevu vůle druhé straně (ex nunc) a obnovení původního stavu ohledně převáděného podniku (jeho části), včetně práv a povinností z pracovněprávních vztahů k zaměstnancům pracujícím v podniku nebo v jeho organizační složce, jakož i práv a povinností k těm zaměstnancům, jejichž pracovněprávní vztah v mezidobí od uzavření smlouvy o prodeji podniku (jeho části) do okamžiku odstoupení od smlouvy případně skončil"
+- *NS* [26 Cdo 1892/98](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D7EEC5A025AA02D5C1257A4E00658990?openDocument) — 19. 4. 2001, kat. A
+  > „Právo účastníků hospodářské smlouvy o sdružení finančních prostředků (§ 360a hosp. zák.), sjednané v této smlouvě, vybírat úhradu za užívání bytů, jichž se týkalo přidělovací právo jednotlivých účastníků smlouvy o sdružení, zrušením hospodářského zákoníku a prováděcích předpisů k němu nezaniklo, ale transformovalo se v právo vybírat (přijímat) nájemné od dosavadních nájemců těchto bytů"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Nabyvatel koupil závod podniku; dodavatel energií žádá úhradu dluhu podniku za dodávky do tohoto závodu před privatizací. Nabyvatel tvrdí, že s převzetím dluhu dodavatel nesouhlasil a že mu převzetí nebylo oznámeno.
@@ -936,6 +961,15 @@ Podmínky převoditelnosti a účinnosti převodu vůči třetím osobám se ř�
 
 **Výjimka.** Přechod nenastává, je-li způsobem vypořádání nároku oprávněných osob **vydání věci** (§ 47 — nároky podle zákona o mimosoudních rehabilitacích). Ochrana zaměstnanců v takovém případě musí být řešena jinak; zákon to výslovně neupravuje.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3119/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC08AF23A73A21E4C1257A4E0065C97B?openDocument) — 19. 2. 2009, kat. A
+  > „K návrhu na přistoupení dalšího žalovaného do řízení vázanému na podmínku (že žaloba bude vůči původnímu žalovanému zamítnuta) soud nepřihlíží (§ 41a odst. 2 o. s. ř.)"
+- *NS* [21 Cdo 20/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE6BFDC6E8536047C1257A4E00658025?openDocument) — 16. 11. 2006, kat. A
+  > „Odstoupení od smlouvy o prodeji (části) podniku má za následek zrušení smlouvy od okamžiku doručení tohoto projevu vůle druhé straně (ex nunc) a obnovení původního stavu ohledně převáděného podniku (jeho části), včetně práv a povinností z pracovněprávních vztahů k zaměstnancům pracujícím v podniku nebo v jeho organizační složce, jakož i práv a povinností k těm zaměstnancům, jejichž pracovněprávní vztah v mezidobí od uzavření smlouvy o prodeji podniku (jeho části) do okamžiku odstoupení od smlouvy případně skončil"
+- *NS* [21 Cdo 2611/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E08B37A90945B601C1257A4E006534E2?openDocument) — 19. 5. 2004, kat. A
+  > „Podle ustanovení § 17 zákona č. 92/1991 Sb., o podmínkách převodu majetku státu na jiné osoby, přecházejí na nabyvatele práva a povinnosti podniku z pracovněprávních vztahů k zaměstnancům pracujícím v podniku nebo v jeho organizační složce, jichž se privatizace týká, i když vyplývají z dřívějšího pracovního poměru mezi nimi"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Privatizována je organizační složka podniku se 120 zaměstnanci; nabyvatel odmítá převzít tři zaměstnance, kteří vykonávali práci i pro jiné složky.
@@ -1030,6 +1064,11 @@ Dnes upravuje obchodní firmu § 423 a násl. občanského zákoníku č. 89/201
 
 **Odst. 6 — dražba.** Pro předání, převzetí a přechod pohledávek a závazků při dražbě platí dražební předpis (pozn. 5b — zákon č. 26/2000 Sb., zrušený s účinností od 1. 1. 2025 zákonem č. 250/2023 Sb.).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 1257/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/13EDA0B45CAD41AEC1257A4E00690B24?openDocument) — 22. 8. 2007, kat. A
+  > „Na převod majetku státu podle zákona č. 92/1991 Sb. ve znění pozdějších předpisů se nevztahuje úprava obsažená v ustanovení § 325 obch. zák"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Kupní smlouva byla uzavřena 1. 3., účinnost sjednána ke 1. 4., předání proběhlo 15. 4.; mezitím 10. 4. vyhořel sklad.
@@ -1080,6 +1119,11 @@ Dnes upravuje obchodní firmu § 423 a násl. občanského zákoníku č. 89/201
 **Odst. 3 — sleva za závazky.** Nabyvatel může uplatnit slevu i ohledně **závazků, které na něj přešly** (§ 15 odst. 1) a **nebyly zachyceny v účetnictví**, nestanoví-li dražební předpis jinak.
 
 Klíčovým referenčním bodem je účetnictví podniku. Zákon nestanoví lhůtu k uplatnění slevy; promlčení se posoudí podle obecných předpisů rozhodných pro smluvní vztah.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 296/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/796DBCFB0DA003F5C1257A4E00652075?openDocument) — 31. 10. 2006, kat. A
+  > „Akciové společnosti, na kterou stát postupem podle zákona č. 92/1991 Sb. převedl svůj majetek bezúplatně, nenáleží nárok na slevu podle § 20 odst. 3 uvedeného zákona"
 
 #### F. Kazuistika
 

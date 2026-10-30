@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 92/1991 Sb., o podmínkách převodu majetku státu na jiné osoby. Vychází výhradně z místních kapitol, místního znění předpisu (konsolidované znění k 1. 1. 2019) a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva ani místní karty rozhodnutí v repozitáři zatím nejsou. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 92/1991 Sb., o podmínkách převodu majetku státu na jiné osoby. Vychází výhradně z místních kapitol, místního znění předpisu (konsolidované znění k 1. 1. 2019), místních karet rozhodnutí ve složce [judikatura/](judikatura/README.md) a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva v repozitáři není. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -143,12 +143,16 @@ Typické střety: stabilita rozhodnutí (vyloučení soudního přezkumu v § 10
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Repozitář zatím neobsahuje místní karty rozhodnutí; složka `judikatura/` bude doplněna strojově později. V systematickém souboru zásad je odkazováno na **0** místních karet s použitelnou citací. Komentář to sám uvádí: „Komentář neobsahuje judikaturu ani spisové značky; repozitář místní judikaturu k tomuto zákonu nemá.“
-Místní korpus proto neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se nesmí domýšlet a žádná spisová značka nesmí být doplněna odhadem.
+Složka [judikatura/](judikatura/README.md) obsahuje **12** místních karet rozhodnutí Nejvyššího soudu, citovaných v kapitolách u § 3, § 11, § 15, § 17, § 19, § 20, § 45 a § 47. Úvod uvádí, že „část z nich se týká historických znění (§ 3 odst. 1 ve znění do 31. 12. 2012, zrušený § 15 odst. 3) a některé jsou k danému ustanovení jen okrajové“. Podle právních vět:
+- **dnešní znění:** § 15 odst. 1 — s privatizovaným majetkem přecházejí na nabyvatele i práva z licenčních smluv (NS 31 Cdo 1058/2010); § 17 — práva a povinnosti z pracovněprávních vztahů přecházejí na nabyvatele, „i když vyplývají z dřívějšího pracovního poměru mezi nimi“ (NS 21 Cdo 2611/2003); § 19 — na převod podle tohoto zákona se nevztahuje § 325 obch. zák. (NS 29 Odo 1257/2005); § 20 odst. 3 — akciové společnosti, na niž stát převedl majetek bezúplatně, nárok na slevu nenáleží (NS 29 Odo 296/2006); u § 11, § 15 a § 17 je citována karta o následcích odstoupení od smlouvy o prodeji (části) podniku — zrušení ex nunc a obnovení původního stavu včetně pracovněprávních vztahů (NS 21 Cdo 20/2006);
+- **historická znění:** § 3 odst. 1 ve znění do 31. 12. 2012 nebránil převodu historického majetku církví v dražbě podle zákona č. 427/1990 Sb. (NS 28 Cdo 1246/2016); zrušený § 15 odst. 3 o ručení státu (dříve Fondu národního majetku České republiky) za závazky vzniklé před 13. 8. 1993 — novela zákonem č. 224/1994 Sb. ručení znovu nezaložila (NS 31 Cdo 2459/2012), posledním využitelným prostředkem při vyrovnání je přihláška pohledávky a rozhodný je stav pohledávky v době jejího přechodu na nabyvatele (NS 29 Cdo 601/2008); § 45 odst. 1 — zástava k majetku bez předloženého privatizačního projektu, zřízená státním podnikem před 1. 1. 2001 (NS 29 Odo 390/2003);
+- **jen okrajové:** NS 21 Cdo 3119/2008 (u § 17 a § 47; procesní otázka podle § 41a odst. 2 o. s. ř.), NS 23 Cdo 2410/2011 (u § 15; ručení za příslušenství tvořené zákonnými úroky z prodlení), NS 26 Cdo 1892/98 (u § 15; transformace práva ze smlouvy o sdružení podle § 360a hosp. zák.).
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (pozor na novely vložených paragrafů) a stejný právní problém. Do té doby chybějící místní judikaturu označujte jako mezeru; prioritní otázky pro budoucí karty jsou uvedeny ve vrstvě 9 hloubkového výkladu.
+Ostatní závěry kapitol jsou syntézou z textu zákona; k ostatním ustanovením místní korpus citovatelnou judikatorní tezi neposkytuje, judikatorní odpověď se nesmí domýšlet a žádná spisová značka nesmí být doplněna odhadem.
 
-**Místní opora.** [místní zásady](ZASADY.md); [úvodní místní výklad](00-uvod.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
+**Jak ji řešit.** U každé karty oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (pozor na novely vložených paragrafů a na zrušený § 15 odst. 3) a stejný právní problém; karty k historickým zněním používejte jen s časovou výhradou a okrajové karty nepoužívejte jako oporu výkladu paragrafu. U ustanovení bez místní karty označujte judikaturu jako mezeru; otevřené otázky bez místní karty jsou uvedeny ve vrstvě 9 hloubkového výkladu.
+
+**Místní opora.** [místní karty rozhodnutí](judikatura/README.md); [místní zásady](ZASADY.md); [úvodní místní výklad](00-uvod.md); [§ 3](01-predmet-privatizacni-projekty-uziti.md); [§ 15](01-predmet-privatizacni-projekty-uziti.md); [§ 17](01-predmet-privatizacni-projekty-uziti.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -181,7 +185,7 @@ Každé ze 44 ustanovení má oddíl G. Protiargumenty a rizika; text obsahuje 4
 
 Vzorově je spor rozpracován u § 22: „Odkaz na písm. c) je tedy výkladovou otázkou (zjevně neaktualizovaný odkaz), jejíž rozumné řešení vede k písm. b).“
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a (po doplnění karet) místní judikatorní argument, praktický následek a důvod, proč jeden převáží. V kapitole 1 doplňte k uvedeným rizikům výslovnou neutralizaci. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a (existuje-li k ustanovení místní karta) místní judikatorní argument, praktický následek a důvod, proč jeden převáží. V kapitole 1 doplňte k uvedeným rizikům výslovnou neutralizaci. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [kapitola 1](01-predmet-privatizacni-projekty-uziti.md); [kapitola 2](02-investicni-kupony-zaverecna.md); [místní zásady](ZASADY.md); [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
@@ -199,9 +203,9 @@ Příklad výslovné subsumpce z kapitoly 2: „Šestiměsíční lhůta od 1. d
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří úvod a **2** kapitoly se 44 paragrafovými jednotkami a **0** karet rozhodnutí, doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří úvod a **2** kapitoly se 44 paragrafovými jednotkami a **12** místních karet rozhodnutí Nejvyššího soudu (citovaných u 8 paragrafů), doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi; složka `judikatura/` bude doplněna strojově;
+- místní karty rozhodnutí jsou citovány jen u § 3, § 11, § 15, § 17, § 19, § 20, § 45 a § 47; část se týká historických znění a některé jsou k danému paragrafu jen okrajové (viz otázka 9); k ostatním ustanovením citovatelná judikatorní teze chybí;
 - místní důvodová zpráva a prováděcí předpisy Ministerstva financí nejsou součástí repozitáře;
 - komentář vychází ze znění k 1. 1. 2019 a sám upozorňuje: „Vychází ze znění zveřejněného k 1. 1. 2019; pozdější změny nemusí být zohledněny.“;
 - redakční nesoulady (§ 19 odst. 4 a neexistující § 45 odst. 7; § 22 odst. 6 a § 24a odst. 2 a neexistující § 24 odst. 3 písm. c)) jsou řešeny jen systematickým výkladem;

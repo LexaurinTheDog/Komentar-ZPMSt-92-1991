@@ -111,6 +111,8 @@ Ustanovení je formulováno jako **omezení dispozice** („může být použito
 - *NS* [28 Cdo 1246/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7AE6D7BF8EC24CA7C125801B002509F9?openDocument) — 21. 6. 2016, kat. A
   > „Převodu historického majetku církví v dražbě prováděné na základě zákona č. 427/1990 Sb. nebránil § 3 odst. 1 zákona č. 92/1991 Sb. ve znění účinném do 31. 12. 2012 pakliže by předmětem dražby odehrávající se po dni účinnosti zákona č. 229/1991 Sb. byl zemědělský majetek, mohlo jeho převod znemožnit ustanovení § 29 zákona č. 229/1991 Sb. ve znění účinném do 31. 12. 2012"
 
+**K místní judikaturní kartě (NS 28 Cdo 1246/2016, viz výše).** Rozhodnutí se týká znění § 3 odst. 1 účinného do 31. 12. 2012 a dražeb podle zákona č. 427/1990 Sb.: převodu historického majetku církví v takové dražbě § 3 odst. 1 nebránil; u zemědělského majetku dražbeného po účinnosti zákona č. 229/1991 Sb. mohlo převod znemožnit jeho § 29. Na dnešní znění § 3 je přenositelné jen s touto časovou výhradou.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Do privatizačního projektu je zařazena budova, kterou stát nabyl znárodněním; původní vlastník podal výzvu k vydání podle restitučního předpisu a řízení nebylo ukončeno.
@@ -840,6 +842,8 @@ Sledovaný účel: výnosy privatizace slouží k vypořádání nároků a záv
 - *NS* [26 Cdo 1892/98](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D7EEC5A025AA02D5C1257A4E00658990?openDocument) — 19. 4. 2001, kat. A
   > „Právo účastníků hospodářské smlouvy o sdružení finančních prostředků (§ 360a hosp. zák.), sjednané v této smlouvě, vybírat úhradu za užívání bytů, jichž se týkalo přidělovací právo jednotlivých účastníků smlouvy o sdružení, zrušením hospodářského zákoníku a prováděcích předpisů k němu nezaniklo, ale transformovalo se v právo vybírat (přijímat) nájemné od dosavadních nájemců těchto bytů"
 
+**K místním judikaturním kartám (viz výše).** NS 31 Cdo 1058/2010 potvrzuje, že s privatizovaným majetkem přecházejí na nabyvatele i práva z licenčních smluv — v souladu s výkladem odst. 1. NS 29 Cdo 601/2008 a NS 31 Cdo 2459/2012 se týkají **zrušeného odst. 3** (ručení státu, dříve Fondu národního majetku, za závazky vzniklé před 13. 8. 1993, které přešly na nabyvatele) v jeho historických zněních; pro dnešní znění mají význam jen pro dobíhající nároky z té doby. NS 21 Cdo 20/2006 se týká následků odstoupení od smlouvy o prodeji (části) podniku (zrušení ex nunc a obnovení původního stavu včetně pracovněprávních vztahů). Karty NS 23 Cdo 2410/2011 (rozsah ručení za příslušenství) a NS 26 Cdo 1892/98 (transformace práv ze smlouvy o sdružení podle hospodářského zákoníku) se k § 15 vztahují jen okrajově a jejich přenositelnost na výklad tohoto ustanovení je třeba posuzovat podle skutkových okolností.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Nabyvatel koupil závod podniku; dodavatel energií žádá úhradu dluhu podniku za dodávky do tohoto závodu před privatizací. Nabyvatel tvrdí, že s převzetím dluhu dodavatel nesouhlasil a že mu převzetí nebylo oznámeno.
@@ -970,6 +974,8 @@ Podmínky převoditelnosti a účinnosti převodu vůči třetím osobám se ř�
 - *NS* [21 Cdo 2611/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E08B37A90945B601C1257A4E006534E2?openDocument) — 19. 5. 2004, kat. A
   > „Podle ustanovení § 17 zákona č. 92/1991 Sb., o podmínkách převodu majetku státu na jiné osoby, přecházejí na nabyvatele práva a povinnosti podniku z pracovněprávních vztahů k zaměstnancům pracujícím v podniku nebo v jeho organizační složce, jichž se privatizace týká, i když vyplývají z dřívějšího pracovního poměru mezi nimi"
 
+**K místním judikaturním kartám (viz výše).** NS 21 Cdo 2611/2003 potvrzuje výklad, že na nabyvatele přecházejí práva a povinnosti z pracovněprávních vztahů k zaměstnancům podle § 17 i tehdy, vyplývají-li z dřívějšího pracovního poměru mezi nimi. NS 21 Cdo 20/2006 dovozuje, že odstoupení od smlouvy o prodeji (části) podniku obnovuje původní stav i ohledně práv a povinností z pracovněprávních vztahů. Karta NS 21 Cdo 3119/2008 řeší procesní otázku podmíněného návrhu na přistoupení dalšího žalovaného (§ 41a odst. 2 o. s. ř.) a k hmotněprávnímu výkladu § 17 nic nepřidává.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Privatizována je organizační složka podniku se 120 zaměstnanci; nabyvatel odmítá převzít tři zaměstnance, kteří vykonávali práci i pro jiné složky.
@@ -1069,6 +1075,8 @@ Dnes upravuje obchodní firmu § 423 a násl. občanského zákoníku č. 89/201
 - *NS* [29 Odo 1257/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/13EDA0B45CAD41AEC1257A4E00690B24?openDocument) — 22. 8. 2007, kat. A
   > „Na převod majetku státu podle zákona č. 92/1991 Sb. ve znění pozdějších předpisů se nevztahuje úprava obsažená v ustanovení § 325 obch. zák"
 
+**K místní judikaturní kartě (NS 29 Odo 1257/2005, viz výše).** Na převod majetku státu podle tohoto zákona se nevztahovala úprava § 325 zrušeného obchodního zákoníku; přechod vlastnického práva se řídí zvláštní úpravou odst. 3.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Kupní smlouva byla uzavřena 1. 3., účinnost sjednána ke 1. 4., předání proběhlo 15. 4.; mezitím 10. 4. vyhořel sklad.
@@ -1124,6 +1132,8 @@ Klíčovým referenčním bodem je účetnictví podniku. Zákon nestanoví lhů
 
 - *NS* [29 Odo 296/2006](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/796DBCFB0DA003F5C1257A4E00652075?openDocument) — 31. 10. 2006, kat. A
   > „Akciové společnosti, na kterou stát postupem podle zákona č. 92/1991 Sb. převedl svůj majetek bezúplatně, nenáleží nárok na slevu podle § 20 odst. 3 uvedeného zákona"
+
+**K místní judikaturní kartě (NS 29 Odo 296/2006, viz výše).** Nárok na slevu podle odst. 3 nenáleží akciové společnosti, na kterou stát převedl majetek **bezúplatně**; slevu podle odst. 3 je tedy třeba vztahovat k úplatným převodům.
 
 #### F. Kazuistika
 

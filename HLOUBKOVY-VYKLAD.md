@@ -9,11 +9,11 @@
 Každá z třinácti vrstev odděluje místní zjištění, autorský test a dohledatelnou místní oporu. Tvrzení se při dalším psaní označuje podle své epistemické povahy:
 
 - **Text:** závěr přímo vyplývající z místního znění předpisu (konsolidované znění k 1. 1. 2019 citované v kapitolách).
-- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže — v tomto repozitáři zatím žádná taková opora není.
+- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže — v tomto repozitáři jde o 12 místních karet Nejvyššího soudu ve složce [judikatura/](judikatura/README.md); jejich dosah rozebírá vrstva 9.
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení; kapitoly ji označují jako **výkladovou otázku**.
 
-Místní korpus pro tuto mapu tvoří **úvod a 2 kapitoly**, **44 samostatně nadepsaných paragrafových jednotek** (23 v kapitole 1, 21 v kapitole 2), **7 zásad**, **42 modalitních fragmentů** a **0 místních karet rozhodnutí**. Místní důvodová zpráva není součástí repozitáře. Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
+Místní korpus pro tuto mapu tvoří **úvod a 2 kapitoly**, **44 samostatně nadepsaných paragrafových jednotek** (23 v kapitole 1, 21 v kapitole 2), **7 zásad**, **42 modalitních fragmentů** a **12 místních karet rozhodnutí Nejvyššího soudu** (15 citací u 8 paragrafů). Místní důvodová zpráva není součástí repozitáře. Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
 
 Zvláštností předpisu je jeho **převážně historický dosah**: rozhodující část privatizace proběhla v první polovině 90. let a otázky se dnes kladou především zpětně — při posuzování titulu nabytí, platnosti privatizačních smluv a trvajících podmínek. Úvod to vyjadřuje větou: „Zákon je formálně stále platný a účinný, jeho praktický význam se však přesunul od řízení samotného privatizačního procesu k posuzování jeho právních následků.“ Každá vrstva proto musí kromě obsahu normy řešit i to, **které znění a který navazující předpis platily v rozhodné době**.
 
@@ -317,22 +317,40 @@ Prostředky ochrany zachycené v kapitolách:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje místní karty rozhodnutí; složka `judikatura/` bude doplněna strojově později. Soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly obsahují **0 spisových značek**. Komentář tuto mezeru sám výslovně přiznává:
-- [Úvod — metodická poznámka](00-uvod.md): „Repozitář neobsahuje místní judikaturu; komentář neuvádí žádné spisové značky“
-- [Úvod — poznámka k metodě](00-uvod.md): „Komentář neobsahuje judikaturu ani spisové značky; repozitář místní judikaturu k tomuto zákonu nemá.“
+Složka [judikatura/](judikatura/README.md) obsahuje **12 místních karet rozhodnutí Nejvyššího soudu** (kategorie A) s právní větou; kapitoly je citují 15krát u 8 paragrafů (§ 3, § 11, § 15, § 17, § 19, § 20, § 45 a § 47). Ke zbylým 36 paragrafovým jednotkám místní karta není. Úvod stav shrnuje:
+- [Úvod — metodická poznámka](00-uvod.md): „část z nich se týká historických znění (§ 3 odst. 1 ve znění do 31. 12. 2012, zrušený § 15 odst. 3) a některé jsou k danému ustanovení jen okrajové“
+- [Úvod — poznámka k metodě](00-uvod.md): „Výklad ostatních otázek vychází z textu zákona, jeho systematiky a obecných výkladových zásad.“
 
-Kapitoly odkazují jen na zákonné, nikoli judikatorní limity, například [§ 10 — výklad](01-predmet-privatizacni-projekty-uziti.md): „Soudní řád správní v § 70 písm. f) vylučuje ze soudního přezkoumání úkony, jejichž přezkoumání vylučuje zvláštní zákon.“
-Místní korpus neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se proto nesmí domýšlet.
+**Karty k dnešnímu znění ustanovení.**
+- § 15 odst. 1 — [NS 31 Cdo 1058/2010](judikatura/NS-31-Cdo-1058-2010.md): „S právy a závazky souvisejícími s privatizovaným majetkem přecházejí na jeho nabyvatele s vlastnickým právem k privatizovanému majetku také práva z licenční smlouvy (licenčních smluv)“.
+- § 17 — [NS 21 Cdo 2611/2003](judikatura/NS-21-Cdo-2611-2003.md): práva a povinnosti podniku z pracovněprávních vztahů k zaměstnancům přecházejí na nabyvatele, „i když vyplývají z dřívějšího pracovního poměru mezi nimi“.
+- § 19 — [NS 29 Odo 1257/2005](judikatura/NS-29-Odo-1257-2005.md): „Na převod majetku státu podle zákona č. 92/1991 Sb. ve znění pozdějších předpisů se nevztahuje úprava obsažená v ustanovení § 325 obch. zák“; srovnávaný obchodní zákoník je dnes zrušen.
+- § 20 odst. 3 — [NS 29 Odo 296/2006](judikatura/NS-29-Odo-296-2006.md): „Akciové společnosti, na kterou stát postupem podle zákona č. 92/1991 Sb. převedl svůj majetek bezúplatně, nenáleží nárok na slevu podle § 20 odst. 3 uvedeného zákona“.
+- § 11, § 15 a § 17 — [NS 21 Cdo 20/2006](judikatura/NS-21-Cdo-20-2006.md): odstoupení od smlouvy o prodeji (části) podniku má za následek zrušení smlouvy ex nunc a obnovení původního stavu ohledně převáděného podniku, „včetně práv a povinností z pracovněprávních vztahů k zaměstnancům pracujícím v podniku nebo v jeho organizační složce“. Právní věta zákon č. 92/1991 Sb. výslovně nejmenuje; jde o navazující otázku následků odstoupení, u § 11 je karta uvedena bez samostatné poznámky.
 
-**Priority pro budoucí karty rozhodnutí** (autorský seznam otázek, nikoli tvrzení o existenci judikatury): rozsah vyloučení soudního přezkumu podle § 10 odst. 3 ve vztahu k čl. 36 odst. 2 Listiny; následky převodu nebo zástavy v rozporu s § 5 a § 45 odst. 1; kritérium souvislosti závazku podle § 15 odst. 1; povaha a přezkoumatelnost rozhodnutí Ministerstva financí podle § 26; zánik užívacích smluv podle § 45 odst. 3; počítání lhůt podle § 47; promlčení nároků vůči fondům podle § 26a.
+**Karty k historickým zněním.**
+- § 3 odst. 1 ve znění účinném do 31. 12. 2012 — [NS 28 Cdo 1246/2016](judikatura/NS-28-Cdo-1246-2016.md): převodu historického majetku církví v dražbě podle zákona č. 427/1990 Sb. toto ustanovení nebránilo; u zemědělského majetku dražbeného po účinnosti zákona č. 229/1991 Sb. mohl převod znemožnit § 29 tohoto zákona ve znění účinném do 31. 12. 2012. Na dnešní znění § 3 je karta přenositelná jen s touto časovou výhradou.
+- zrušený § 15 odst. 3 (ručení státu, dříve Fondu národního majetku České republiky, za závazky vzniklé před 13. 8. 1993, které přešly na nabyvatele) — [NS 31 Cdo 2459/2012](judikatura/NS-31-Cdo-2459-2012.md): novela provedená zákonem č. 224/1994 Sb. „nezaložila znovu ručení Fondu národního majetku České republiky za závazky, které na nabyvatele přešly v rámci privatizace“, nýbrž vázala na další podmínky splatnost pohledávek z ručení vzniklých před 13. 8. 1993, které se nestaly splatnými před 6. 12. 1994; [NS 29 Cdo 601/2008](judikatura/NS-29-Cdo-601-2008.md) (znění od 6. 12. 1994 do 30. 4. 2005): pokud byl úpadek nabyvatele řešen vyrovnáním, je posledním právním prostředkem, jehož nevyužití lze přičítat k tíži věřitele, přihláška pohledávky do vyrovnání; pro výši pohledávky, za kterou stát ručí, je rozhodný její stav v době, kdy na nabyvatele přešla s privatizovaným majetkem. Pro dnešní znění mají obě karty význam jen pro dobíhající nároky z té doby.
+- § 45 odst. 1 — [NS 29 Odo 390/2003](judikatura/NS-29-Odo-390-2003.md): nešlo-li o majetek, na který byl předložen privatizační projekt, nebo o majetek vymezený v zakládací listině státního podniku, mohl státní podnik „před 1. 1. 2001 platně uzavřít smlouvu o zřízení zástavního práva k majetku státu, k němuž měl právo hospodaření, a to i bez souhlasu zakladatele“; zbytek právní věty se týká žalobního petitu konkursního věřitele, jehož právo na oddělené uspokojení bylo popřeno.
+
+**Karty k danému paragrafu jen okrajové.**
+- [NS 21 Cdo 3119/2008](judikatura/NS-21-Cdo-3119-2008.md) (u § 17 a § 47): procesní otázka o. s. ř. — k podmíněnému návrhu na přistoupení dalšího žalovaného soud nepřihlíží (§ 41a odst. 2 o. s. ř.); k hmotněprávnímu výkladu § 17 ani § 47 nic nepřidává.
+- [NS 23 Cdo 2410/2011](judikatura/NS-23-Cdo-2410-2011.md) (u § 15): „Není-li dohodnuto jinak, v rozsahu, ve kterém ručitel ručí za zaplacení jistiny pohledávky, ručí i za její příslušenství tvořené zákonnými úroky z prodlení“.
+- [NS 26 Cdo 1892/98](judikatura/NS-26-Cdo-1892-98.md) (u § 15): právo vybírat úhradu za užívání bytů ze smlouvy o sdružení finančních prostředků (§ 360a hosp. zák.) zrušením hospodářského zákoníku nezaniklo, ale transformovalo se v právo vybírat nájemné od dosavadních nájemců.
+
+Ostatní závěry kapitol jsou syntézou z textu zákona. Kapitoly u nich odkazují jen na zákonné, nikoli judikatorní limity, například [§ 10 — výklad](01-predmet-privatizacni-projekty-uziti.md): „Soudní řád správní v § 70 písm. f) vylučuje ze soudního přezkoumání úkony, jejichž přezkoumání vylučuje zvláštní zákon.“
+K těmto otázkám místní korpus kartu rozhodnutí neposkytuje; judikatorní závěr se proto nesmí domýšlet.
+
+**Otevřené otázky bez místní karty** (autorský seznam otázek, nikoli tvrzení o existenci judikatury): rozsah vyloučení soudního přezkumu podle § 10 odst. 3 ve vztahu k čl. 36 odst. 2 Listiny; následky převodu nebo zástavy v rozporu s § 5 a § 45 odst. 1; kritérium souvislosti závazku podle § 15 odst. 1 mimo práva z licenčních smluv; povaha a přezkoumatelnost rozhodnutí Ministerstva financí podle § 26; zánik užívacích smluv podle § 45 odst. 3; počítání lhůt podle § 47; promlčení nároků vůči fondům podle § 26a.
 
 **Hloubkový test.**
-- U každé budoucí karty oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
+- U každé karty oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
 - Ověřte, zda soud vykládal stejné znění (pozor na novely vložených paragrafů) a stejný právní problém, a zda závěr nebyl později odlišen nebo překonán.
+- Karty k § 3 odst. 1 ve znění do 31. 12. 2012, ke zrušenému § 15 odst. 3 a k zástavě před 1. 1. 2001 nepřenášejte na dnešní znění bez časové výhrady; okrajové karty nepoužívejte jako oporu výkladu paragrafu, u něhož jsou citovány.
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních okolnostech konkrétní privatizace.
-- Do doplnění karet formulujte všechna judikatorní tvrzení jako otevřené otázky; absence místní karty neznamená, že rozhodovací praxe neexistuje.
+- U ustanovení bez místní karty formulujte judikatorní tvrzení jako otevřené otázky; absence místní karty neznamená, že rozhodovací praxe neexistuje.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvod komentáře](00-uvod.md); [§ 10](01-predmet-privatizacni-projekty-uziti.md)
+**Místní opora.** [rejstřík komentáře](INDEX.md); [místní karty rozhodnutí](judikatura/README.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvod komentáře](00-uvod.md); [§ 3](01-predmet-privatizacni-projekty-uziti.md); [§ 10](01-predmet-privatizacni-projekty-uziti.md); [§ 15](01-predmet-privatizacni-projekty-uziti.md); [§ 17](01-predmet-privatizacni-projekty-uziti.md); [§ 45](02-investicni-kupony-zaverecna.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -361,7 +379,7 @@ Nejvýznamnější sporné body zachycené v místních kapitolách:
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu; v kapitole 1 doplňte k rizikům i výslovnou neutralizaci.
-- U každé varianty uveďte textový, systematický, historický, účelový a případný místní judikatorní argument (zatím chybí).
+- U každé varianty uveďte textový, systematický, historický, účelový a případný místní judikatorní argument (místní karty jsou citovány jen u § 3, § 11, § 15, § 17, § 19, § 20, § 45 a § 47; viz vrstva 9).
 - Porovnejte praktické následky variant — zejména pro titul nabytí a pro nabyvatele, který spoléhal na rozhodnutí o privatizaci.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
@@ -425,7 +443,7 @@ Změna jediné skutečnosti (nájem bytu, nájem podle § 15 zákona č. 427/199
 - Strukturu řešení tvoří skutkový stav, právní otázka, rozhodné znění v čase, pravidlo a výjimky, důkazy, subsumpce a výsledek.
 - U každého znaku výslovně napište, která skutečnost jej naplňuje nebo proč naplněn není; u historických skutků uveďte i datum.
 - Variantu vytvořte změnou jediné rozhodné skutečnosti; tím se ukáže, který znak skutečně nese výsledek.
-- Uzavřete procesním krokem, prostředkem ochrany, důsledkem pro adresáta a zbytkovou nejistotou (promlčení, dostupnost evidence, chybějící judikatura).
+- Uzavřete procesním krokem, prostředkem ochrany, důsledkem pro adresáta a zbytkovou nejistotou (promlčení, dostupnost evidence, chybějící místní karta rozhodnutí).
 
 **Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [kapitola 1](01-predmet-privatizacni-projekty-uziti.md); [kapitola 2](02-investicni-kupony-zaverecna.md); [místní mapa právních modalit](PRAVNI-MODALITY.md)
 
@@ -434,7 +452,7 @@ Změna jediné skutečnosti (nájem bytu, nájem podle § 15 zákona č. 427/199
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **úvodem a 2 kapitolami** se 44 paragrafovými jednotkami. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní karty rozhodnutí chybějí; složka `judikatura/` bude doplněna strojově a do té doby nelze uvádět judikatorní tezi;
+- 12 místních karet rozhodnutí Nejvyššího soudu je citováno jen u 8 ze 44 paragrafových jednotek; část se týká historických znění (§ 3 odst. 1 ve znění do 31. 12. 2012, zrušený § 15 odst. 3) a tři jsou k danému paragrafu jen okrajové (NS 21 Cdo 3119/2008, NS 23 Cdo 2410/2011, NS 26 Cdo 1892/98); u ostatních ustanovení nelze uvádět judikatorní tezi;
 - místní důvodová zpráva ani prováděcí předpisy Ministerstva financí (ocenění akcií, registrace, kurzy) nejsou součástí repozitáře;
 - komentář vychází ze znění k 1. 1. 2019; změny po tomto dni nejsou místně ověřeny;
 - usnesení vlády o výběru majetku a jednotlivá rozhodnutí o privatizaci nejsou místním pramenem — skutkové závěry o konkrétních privatizacích proto nelze z repozitáře činit;
@@ -455,17 +473,17 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod](00-uvod.md) | ano | nenalezeno | ano | jen záznam absence | ano | ano | nenalezeno | ano |
-| [Kapitola 1](01-predmet-privatizacni-projekty-uziti.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
-| [Kapitola 2](02-investicni-kupony-zaverecna.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Úvod](00-uvod.md) | ano | nenalezeno | ano | přehled místních karet | ano | ano | nenalezeno | ano |
+| [Kapitola 1](01-predmet-privatizacni-projekty-uziti.md) | ano | ano | ano | ano | ano | ano | ano | ano |
+| [Kapitola 2](02-investicni-kupony-zaverecna.md) | ano | ano | ano | ano | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** žádná kapitola neobsahuje kartu ani citaci rozhodnutí; po strojovém doplnění složky `judikatura/` je nutné projít vrstvy 8–10.
+- **Judikatura:** kapitola 1 cituje místní karty u § 3, § 11, § 15, § 17, § 19 a § 20, kapitola 2 u § 45 a § 47; poznámku o dosahu karty mají jen § 3, § 15, § 17, § 19 a § 20, u § 11, § 45 a § 47 je vztah karty k ustanovení třeba ověřit podle vrstvy 9.
 - **Důkazy a aplikace v úvodu:** úvod neobsahuje důkazní ani kazuistickou vrstvu; to odpovídá jeho přehledové funkci.
 - **Časová působnost:** u ustanovení vložených novelami ověřit den účinnosti novely; u všech poznámek pod čarou ověřit stav navazujícího předpisu.
 
-**Aktualizační spouštěče.** Změna nebo zrušení zákona č. 92/1991 Sb. po 1. 1. 2019; doplnění složky `judikatura/`; změna zákona č. 77/1997 Sb. v části odkazující na § 11 odst. 1, § 47b a § 47c; vývoj přechodných ustanovení zákona č. 250/2023 Sb. pro dražby; rozpor mezi kapitolou a souborem [ZASADY.md](ZASADY.md) či [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md); nefunkční odkaz.
+**Aktualizační spouštěče.** Změna nebo zrušení zákona č. 92/1991 Sb. po 1. 1. 2019; doplnění nebo změna karet ve složce `judikatura/`; změna zákona č. 77/1997 Sb. v části odkazující na § 11 odst. 1, § 47b a § 47c; vývoj přechodných ustanovení zákona č. 250/2023 Sb. pro dražby; rozpor mezi kapitolou a souborem [ZASADY.md](ZASADY.md) či [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md); nefunkční odkaz.
 
 **Hloubkový test.**
 - Na konci výkladu evidujte ověřené pravidlo, použitý místní zdroj, míru jistoty, otevřenou otázku a datum kontroly.
@@ -487,7 +505,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 | Proces | příslušnost podle metody, sled kroků, forma, lhůta, přezkum | seznam paragrafů bez časové osy |
 | Důkazy | znak, skutečnost, důkaz, břemeno, dostupnost evidence | nahrazení skutku právním názorem |
 | Následky | primární norma, porušení, následek, ochrana | dovození neplatnosti tam, kde ji zákon nestanoví, bez označení nejistoty |
-| Judikatura | ratio, kontext, dosah, vývoj linie (po doplnění karet) | izolovaná právní věta bez skutků nebo vymyšlená spisová značka |
+| Judikatura | ratio, kontext, rozhodné znění, dosah, vývoj linie | izolovaná právní věta bez skutků nebo vymyšlená spisová značka |
 | Sporné výklady | nejsilnější varianty a důvod preference | potlačení rozumného protiargumentu |
 | Vazby | specialita, subsidiarita, ústavní limit, nástupnická úprava | pouhý seznam souvisejících předpisů |
 | Aplikace | skutky s daty, pravidlo, důkazy, subsumpce, výsledek | příklad bez výslovného naplnění znaků |
@@ -498,7 +516,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 1. Text zákona, závěr soudu, převzatou doktrínu a vlastní syntézu vždy oddělte.
 2. Každé významné tvrzení musí být dohledatelné v místním prameni nebo označené jako otevřená otázka.
 3. Míru jistoty vyjádřete jako ustálený závěr, převažující výklad, spornou otázku nebo autorský návrh.
-4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; dokud karty chybějí, žádný judikatorní závěr neuvádějte.
+4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; u ustanovení bez místní karty žádný judikatorní závěr neuvádějte.
 5. Neuvádějte pouze výsledek; zpřístupněte argumentační cestu tak, aby ji bylo možné přezkoumat.
 6. U historických skutků vždy uveďte datum rozhodné skutečnosti a znění, podle něhož se posuzuje.
 
@@ -507,7 +525,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 - [ ] Rozhodné znění, účinnost novel a stav navazujících předpisů jsou označeny.
 - [ ] Každý pojem a modalita mají určený právní následek.
 - [ ] Procesní a důkazní rovina navazují na jednotlivé znaky normy.
-- [ ] Absence místní judikatury je výslovně přiznána a žádná spisová značka není domyšlena.
+- [ ] Judikatura je uvedena jen z místních karet s rozlišením dnešního a historického znění, absence karty u ostatních ustanovení je přiznána a žádná spisová značka není domyšlena.
 - [ ] Konkurenční výklad je formulován v nejsilnější obhajitelné podobě.
 - [ ] Modelový případ obsahuje úplnou subsumpci a variantu hraničního případu.
 - [ ] Nejistoty, mezery a aktualizační spouštěče jsou viditelné.
